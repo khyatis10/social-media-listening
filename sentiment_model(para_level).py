@@ -10,23 +10,28 @@ from sklearn.svm import LinearSVC
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from textblob import TextBlob
 
-df1 = pd.read_csv('D:/Social Media Listening/test_csvs/xuv300reviews.csv')
+# reading reviews file
+df1 = pd.read_csv('xuv300reviews.csv')
 df1a = df1[['reviews','ratings']]
 
+# initializing an object that can be used to perform sentiment analysis on text data
 analyser = SentimentIntensityAnalyzer()
+
+# returns sentiment analysis results as a tuple( positive, negative or neutral )
 def calculate_sentiment(Clean_text):
     return TextBlob(Clean_text).sentiment
 
+# returns sentiment analysis dictionary with sentiment scores for text 
 def calculate_sentiment_analyser(Clean_text):
     return analyser.polarity_scores(Clean_text)
 
-
-
 df1a['sentiment']=df1a.reviews.apply(calculate_sentiment)
 df1a['sentiment_analyser']=df1a.reviews.apply(calculate_sentiment_analyser)
+
 #EXTRACTING SENTIMENT LABELS
 s = pd.DataFrame(index = range(0,len(df1a)),columns= ['compound_score','compound_score_sentiment'])
 
+# dynamic column generation for all sentiments and assigning their score.
 for i in range(0,len(df1a)):
   s['compound_score'][i] = df1a['sentiment_analyser'][i]['compound']
 
