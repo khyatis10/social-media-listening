@@ -1,0 +1,313 @@
+[<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 1.25"><span class="rating-status" style="width: 25%;">Overall rating: 1.25</span></span>
+        
+        By: Elsy Jose on 17 March 2019
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 1.75"><span class="rating-status" style="width: 35%;">Overall rating: 1.75</span></span>
+        
+        By: Vikram on 18 November 2018
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.75"><span class="rating-status" style="width: 95%;">Overall rating: 4.75</span></span>
+        
+        By: Basim on 11 October 2018
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.25"><span class="rating-status" style="width: 65%;">Overall rating: 3.25</span></span>
+        
+        By: Simon Paulose on 24 April 2018
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 2"><span class="rating-status" style="width: 40%;">Overall rating: 2</span></span>
+        
+        By: Rana on 10 April 2018
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 1.5"><span class="rating-status" style="width: 30%;">Overall rating: 1.5</span></span>
+        
+        By: MUHAMMED MANSOOR on 08 January 2018
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 1.75"><span class="rating-status" style="width: 35%;">Overall rating: 1.75</span></span>
+        
+        By: MUHAMMED MANSOOR A P on 12 October 2017
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Shashank on 06 February 2017
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.75"><span class="rating-status" style="width: 75%;">Overall rating: 3.75</span></span>
+        
+        By: Paresh Patel  AHMEDABAD on 20 May 2016
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Jatin Panda on 30 October 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.25"><span class="rating-status" style="width: 65%;">Overall rating: 3.25</span></span>
+        
+        By: Darshit Sampat on 29 October 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Avinash Thakur on 17 October 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Arvind Singh on 18 September 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Nikhil Sharma on 28 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: mayank malhotra on 27 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Raghuveer Tomar on 26 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Yogendra Sahu on 25 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Neel Shaw on 19 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Vivian Rao on 18 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Kush Sinha on 17 August 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Suranjan Banerjee on 07 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Sumit Srivastav on 05 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Venkatesh on 03 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Balaji on 02 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Krishna on 01 August 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: shyam sundar on 27 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: sudeep jain on 26 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: ARUN DHUPAR on 25 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Nikhil Anand on 19 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Ishan Malhotra on 18 July 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Arjun Singh on 17 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Ila Sarkar on 09 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Debdutta Roychowdhury on 08 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Debojyoti Sarkar on 07 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Kamal Mahato on 06 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Ravindra seth on 05 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Kalyan Singh on 04 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Prantik Sen on 03 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Prakash Shroff on 02 July 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Antarix Yagnik on 01 July 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Manisha Lamba on 30 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Manjit SIngh on 29 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Narayan Saha on 28 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Ratnesh Pandey on 27 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Akhilesh Mistry on 26 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Yash goenka on 23 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: lucky singh on 22 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: jeyesh jerish on 21 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Harish on 19 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Kanu Swamy on 17 June 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Avinash Yadav on 15 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Ramsankar Ojha on 13 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Naman Kumar on 06 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Rajeev Mathur on 04 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Raju Sharma on 02 June 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.25"><span class="rating-status" style="width: 65%;">Overall rating: 3.25</span></span>
+        
+        By: Kapil on 28 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 2.5"><span class="rating-status" style="width: 50%;">Overall rating: 2.5</span></span>
+        
+        By: Ashutosh on 27 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Anupam Mishra on 25 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Lalit Shukla on 24 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Jay Kant on 22 May 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Nilay Kumar on 20 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Pramod Singh on 19 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Pratyush Pathak on 16 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Ananjay Singh on 15 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.5"><span class="rating-status" style="width: 90%;">Overall rating: 4.5</span></span>
+        
+        By: Vimal Gupta on 15 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Naman Seth on 13 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.5"><span class="rating-status" style="width: 90%;">Overall rating: 4.5</span></span>
+        
+        By: Neeraj Shukla on 12 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Ankit Panday on 12 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Vijay Duggal on 06 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Ravi Verma on 06 May 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Tajinder Kaul on 05 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Pankay Goyal on 05 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.75"><span class="rating-status" style="width: 75%;">Overall rating: 3.75</span></span>
+        
+        By: Bhanu Batra on 04 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Bhavesh Kumar on 03 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Anand Sinha on 02 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.75"><span class="rating-status" style="width: 75%;">Overall rating: 3.75</span></span>
+        
+        By: Mani Rajagopalan on 01 May 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Deependra Rathore on 29 April 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Ashwani Sain on 28 April 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Arun Chaudhary on 16 March 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4"><span class="rating-status" style="width: 80%;">Overall rating: 4</span></span>
+        
+        By: Sachin Choudhary on 04 March 2015
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Divyanash Garg on 26 February 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Umesh Sharma on 11 February 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.5"><span class="rating-status" style="width: 90%;">Overall rating: 4.5</span></span>
+        
+        By: Madhu on 22 January 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Mahip Singh on 06 January 2015
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 4.25"><span class="rating-status" style="width: 85%;">Overall rating: 4.25</span></span>
+        
+        By: Rajiv on 14 December 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.5"><span class="rating-status" style="width: 70%;">Overall rating: 3.5</span></span>
+        
+        By: Kiran Raj on 06 December 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Anupam on 22 November 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 2.75"><span class="rating-status" style="width: 55%;">Overall rating: 2.75</span></span>
+        
+        By: Niranjan  on 19 November 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3.25"><span class="rating-status" style="width: 65%;">Overall rating: 3.25</span></span>
+        
+        By: Syed on 03 November 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Venkat on 28 October 2014
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Pitambar on 27 October 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Bhanu on 12 October 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Vasundhara on 27 March 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 3"><span class="rating-status" style="width: 60%;">Overall rating: 3</span></span>
+        
+        By: Dipaka on 13 March 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 2.75"><span class="rating-status" style="width: 55%;">Overall rating: 2.75</span></span>
+        
+        By: Dilip on 05 March 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Sudhir on 11 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Pramod on 09 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Surinder on 08 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Kalpana on 07 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Sandhya on 06 February 2014
+    </div>] [<div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Madhava on 05 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Anantha on 04 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Sanjay on 03 February 2014
+    </div>, <div class="model-reviews__item-info"><span class="rating-star" title="Overall rating: 5"><span class="rating-status" style="width: 100%;">Overall rating: 5</span></span>
+        
+        By: Govind on 02 February 2014
+    </div>]
