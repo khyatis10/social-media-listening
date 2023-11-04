@@ -1,0 +1,16 @@
+Server: nginx
+Date: Fri, 18 Sep 2020 04:53:13 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Access-Control-Allow-Origin: https://autoportal.com https://n2n.autoportal.com
+X-Backend: www1
+Content-Encoding: gzip
+X-Varnish: 344897956 351278341
+Age: 600
+Via: 1.1 varnish-v4
+X-Varnishv: 1
+X-Cache: HIT(1) |autoportal.com|/newcars/mahindra/|!
+X-Grace: stale
+Accept-Ranges: bytes
+Set-Cookie: ab=b; path=/;
