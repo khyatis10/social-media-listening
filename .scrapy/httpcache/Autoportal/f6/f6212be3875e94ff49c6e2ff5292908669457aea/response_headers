@@ -1,0 +1,16 @@
+Server: nginx
+Date: Wed, 16 Sep 2020 11:11:39 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Access-Control-Allow-Origin: https://autoportal.com https://n2n.autoportal.com
+X-Backend: www1
+Content-Encoding: gzip
+X-Varnish: 340234967 338453710
+Age: 2166
+Via: 1.1 varnish-v4
+X-Varnishv: 1
+X-Cache: HIT(1) |autoportal.com|/newcars/mahindra/thar/reviews/|a
+X-Grace: stale
+Accept-Ranges: bytes
+Set-Cookie: ab=a; path=/;
